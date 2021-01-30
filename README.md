@@ -12,3 +12,6 @@ Publicados los STLs dentro de la carpeta correspondiente.
 
 ## Firmware
 Hace uso de Marlin. En concreto de la versión RC1.1.7.
+
+## PrusaSlicer
+Configuración de vadetres para usar en PrusaSlicer 2.3.0.
